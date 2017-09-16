@@ -1,4 +1,4 @@
-# More Circuit Symbols v1.0.0
+# More Circuit Symbols v1.1.0
 
 Adds more circuit symbols to allow you to more easily label your circuit inputs and outputs.
 
@@ -35,7 +35,7 @@ Adds the following symbols in red, green, blue, and yellow:
 - Ingredient 4
 
 ## Compatibility
-Known to be compatible with Factorio v0.14.3
+Known to be compatible with Factorio v0.15
 
 ## Credits
 Kyran of Droid Army whose mod I looked at to learn how to do this
