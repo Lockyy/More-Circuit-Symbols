@@ -4,9 +4,11 @@ Adds more circuit symbols to allow you to more easily label your circuit inputs 
 
 Adds the following symbols in red, green, blue, and yellow:
 
+- Available Construction Bot
 - Active Construction Bot
 - Total Construction Bots
 - Active Logistics Bots
+- Available Logistics Bots
 - Total Logistics Bots
 - Total
 - Min

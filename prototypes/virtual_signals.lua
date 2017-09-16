@@ -239,5 +239,21 @@ for _, color in pairs({"blue", "red", "green", "yellow"}) do
       subgroup = subgroup,
       order = "more-signals-["..color.."]-[29]"
     },
+    {
+      type = "virtual-signal",
+      name = "more-signals-avail_log_bot-"..color,
+      localised_name = {"virtual-signal-name.more-signals", {"more-signals."..color}, {"more-signals.avail_log_bot"}},
+      icon = "__more_circuit_symbols__/graphics/icons/"..color.."/avail_log_bot.png",
+      subgroup = subgroup,
+      order = "more-signals-["..color.."]-[30]"
+    },
+    {
+      type = "virtual-signal",
+      name = "more-signals-avail_cons_bot-"..color,
+      localised_name = {"virtual-signal-name.more-signals", {"more-signals."..color}, {"more-signals.avail_cons_bot"}},
+      icon = "__more_circuit_symbols__/graphics/icons/"..color.."/avail_cons_bot.png",
+      subgroup = subgroup,
+      order = "more-signals-["..color.."]-[31]"
+    },
   })
 end
