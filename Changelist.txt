@@ -1,0 +1,6 @@
+# 1.1.0
+
+- Add available bot signals. The roboport exposes an available bot variable, not an active bot variable. The active bot signal is useful for calculations but not for representing the variable actually exposed.
+- Set available and total bot virtual signals as the signals to send from roboports by default.
+- Fix locale file formatting
+- Update for v1.15
