@@ -1,7 +1,7 @@
 {
-	"name": "more_circuit_symbols",
+	"name": "more_circuit_symbols_zero17",
 	"version": "1.2.0",
-	"title": "More Circuit Signals",
+	"title": "More Circuit Signals (0.17)",
 	"factorio_version": "0.17",
 	"dependencies": ["base >= 0.17"],
 	"author": "Lockyy",
